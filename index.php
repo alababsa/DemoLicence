@@ -16,6 +16,11 @@ echo "coucou";
         coucou
         tot
         tot
+       
+        
+        <?php
+         echo "Blaireau";
+        ?>
         
         
     </body>
