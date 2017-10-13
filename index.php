@@ -14,6 +14,8 @@ echo "coucou";
     </head>
     <body>
         coucou
+        tot
+        tot
     </body>
 </html>
 
